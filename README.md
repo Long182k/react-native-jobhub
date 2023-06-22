@@ -7,13 +7,15 @@ npx create-expo-app -e with-router
 ```
 ## 🚀 How to run project.
 
-1. First step
 ```sh
+1. First step
 npm install -g expo-cli
 
 2. Second step
-```sh
  expo-cli start --tunnel
+
+```
+
 
 ## 📝 Notes
 
