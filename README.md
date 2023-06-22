@@ -8,7 +8,8 @@ npx create-expo-app -e with-router
 ## 🚀 How to run project.
 
 ```sh
-1. First Step npm install 
+1. First Step 
+npm install 
 
 2. Second step
 npm install -g expo-cli
