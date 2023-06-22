@@ -14,7 +14,6 @@ npm install -g expo-cli
 2. Second step
 ```sh
  expo-cli start --tunnel
- ```
 
 ## 📝 Notes
 
