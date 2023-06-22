@@ -6,10 +6,12 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npx create-expo-app -e with-router
 ```
 ## 🚀 How to run project.
+
 1. First step
 ```sh
 npm install -g expo-cli
-1. Second step
+
+2. Second step
 ```sh
  expo-cli start --tunnel
  ```
